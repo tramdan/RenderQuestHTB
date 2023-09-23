@@ -1,1 +1,1 @@
-test {{.ClientIP}}
+test {{.ServerInfo.OS}}
