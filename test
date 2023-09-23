@@ -1,1 +1,1 @@
-test {{.ServerInfo.KernelVersion}}
+test {{.ServerInfo.Memory}}
