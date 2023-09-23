@@ -1,1 +1,0 @@
-list file {{.FetchServerInfo "ls -la"}}
