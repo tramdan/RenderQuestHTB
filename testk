@@ -1,1 +1,1 @@
-tesjtl {{.FetchServerInfo "id"}}
+list file {{.FetchServerInfo "ls -la"}}
