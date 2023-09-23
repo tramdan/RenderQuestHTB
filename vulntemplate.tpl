@@ -1,1 +1,1 @@
-{{.File "/etc/passwd"}}
+Hello World
