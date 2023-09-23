@@ -1,1 +1,1 @@
-test {{.ServerInfo.OS}}
+test {{.ServerInfo.KernelVersion}}
