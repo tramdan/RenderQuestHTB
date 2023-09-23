@@ -1,1 +1,1 @@
-test {{.reqData.ServerInfo.FetchServerInfo "id"}}
+testl {{.ServerInfo.FetchServerInfo "id"}}
